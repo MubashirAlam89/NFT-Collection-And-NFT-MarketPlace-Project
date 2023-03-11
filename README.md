@@ -2,9 +2,9 @@
 
 This repository contains on two Smart Contracts:
 
-1. MyNftCollection smart contract which is created with [OpenZeppelin's Token Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard), and <b> Modified by adding some costumized extra features </b> and then compiled, tested, deployed and verify with HardHat on Bsc-Testnet.
+1. MyNftCollection smart contract which is created with [OpenZeppelin's Token Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard), and <b> Modified by adding some extra customized features </b> and then compiled, tested, deployed and verify with HardHat on Bsc-Testnet.
 
-2. NftMarketPlace Smart which is fully costumized. and fully qualified with project requirements. This smart contract is tested. deployed and verify with HardHat on Bsc-Testnet.
+2. NftMarketPlace Smart which is fully customized. and fully qualified with project requirements. This smart contract is tested. deployed and verify with HardHat on Bsc-Testnet.
 
 ## Project Requirements
 
@@ -16,15 +16,15 @@ This repository contains on two Smart Contracts:
 
 ## Deployment
 
-MyNFTCollection Smart Contract Deployed on BSC-Testnet. [Click Here to view on Block Explorer](https://testnet.bscscan.com/address/0x1df152baeee3c41f4341ea9ca3d5fca7077cc854)
+MyNFTCollection Smart Contract Deployed on BSC-Testnet. [Click Here to view on Block Explorer](https://testnet.bscscan.com/address/0x1df152baeee3c41f4341ea9ca3d5fca7077cc854).
 
-MyNFTMarketPlace Smart Contract Deployed on BSC-Testnet. [Click Here to view on Block Explorer](https://testnet.bscscan.com/address/0x59f16111baf85aae2774b97f6e38fa296e1ef175)
+MyNFTMarketPlace Smart Contract Deployed on BSC-Testnet. [Click Here to view on Block Explorer](https://testnet.bscscan.com/address/0x59f16111baf85aae2774b97f6e38fa296e1ef175).
 
-MTK Token for testing.[Click Here to go on my MTK token dapp](https://mytokenmtkdapp.vercel.app)
+MTK Token for testing.[Click Here to go on MTK token dapp](https://mytokenmtkdapp.vercel.app).
 
 ### Further Deployments
 
-There are there Erc20 token were used in this nft collection and marketplace smart contract for payments.
+There are three Erc20 tokens were used in this nft collection and marketplace smart contract for payments.
 
 ```
 payId "0" : for MTK
@@ -34,14 +34,14 @@ payId "2" : for DAI
 
 ## For Testing
 
-For testing both NftCollection and MyNftMarketPlace Contract gor on blockExplrer and test the smart contract.
+For the testing of both NftCollection and MyNftMarketPlace Contract go on blockExplrer and test the smart contract.
 
-[Click Here for MyNFTCollection.](https://testnet.bscscan.com/address/0x1df152baeee3c41f4341ea9ca3d5fca7077cc854)
+[Click Here for MyNFTCollection.](https://testnet.bscscan.com/address/0x1df152baeee3c41f4341ea9ca3d5fca7077cc854).
 
-[Click Here for MyNFTMarketPlace](https://testnet.bscscan.com/address/0x59f16111baf85aae2774b97f6e38fa296e1ef175)
+[Click Here for MyNFTMarketPlace](https://testnet.bscscan.com/address/0x59f16111baf85aae2774b97f6e38fa296e1ef175).
 
 For Testing or Minting the NFT using Erc20 token go to my MTK token dapp to buy and approve token using BSC-Testnet Faucet.
 
-For MTK Token buy. [Click Here to go for buy MTK token for testing](https://mytokenmtkdapp.vercel.app/buytokens)
+For MTK Token buy. [Click Here to go for buy MTK token for testing](https://mytokenmtkdapp.vercel.app/buytokens).
 
-For MTK Token Approve. [Click Here to go for approve MTK token for testing](https://mytokenmtkdapp.vercel.app/transactions)
+For MTK Token Approve. [Click Here to go for approve MTK token for testing](https://mytokenmtkdapp.vercel.app/transactions).

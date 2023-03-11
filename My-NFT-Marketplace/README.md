@@ -1,6 +1,6 @@
 # NFT MARKETPLACE PROJECT
 
-NftMarketPlace Smart which is fully costumized. and fully qualified with project requirements. This smart contract is tested. deployed and verify with HardHat on Bsc-Testnet.
+NftMarketPlace Smart which is fully customized. and fully qualified with project requirements. This smart contract is tested. deployed and verify with HardHat on Bsc-Testnet.
 
 ## Deployment
 

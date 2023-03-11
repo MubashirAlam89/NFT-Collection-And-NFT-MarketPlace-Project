@@ -1,6 +1,6 @@
 # NFT COLLECTION PROJECT
 
-MyNftCollection smart contract which is created with [OpenZeppelin's Token Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard), and <b> Modified by adding some costumized extra features </b> and then compiled, tested, deployed and verify with HardHat on Bsc-Testnet.
+MyNftCollection smart contract which is created with [OpenZeppelin's Token Contract Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard), and <b> Modified by adding some extra customized features </b> and then compiled, tested, deployed and verify with HardHat on Bsc-Testnet.
 
 ## Deployment
 
