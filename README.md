@@ -20,7 +20,7 @@ MyNFTCollection Smart Contract Deployed on BSC-Testnet. [Click Here to view on B
 
 MyNFTMarketPlace Smart Contract Deployed on BSC-Testnet. [Click Here to view on Block Explorer](https://testnet.bscscan.com/address/0x59f16111baf85aae2774b97f6e38fa296e1ef175).
 
-MTK Token for testing.[Click Here to go on MTK token dapp](https://mytokenmtkdapp.vercel.app).
+MTK Token for testing.[Click Here to go on MTK token dapp](https://mtktoken.vercel.app).
 
 ### Further Deployments
 
